@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/BinduMB-88/Leetcode/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
+| [1313-decompress-run-length-encoded-list](https://github.com/BinduMB-88/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
