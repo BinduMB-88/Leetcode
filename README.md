@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
 | [1313-decompress-run-length-encoded-list](https://github.com/BinduMB-88/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BinduMB-88/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BinduMB-88/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BinduMB-88/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BinduMB-88/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BinduMB-88/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
