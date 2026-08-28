@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/BinduMB-88/Leetcode/tree/master/0441-arranging-coins) |
+| [1323-maximum-69-number](https://github.com/BinduMB-88/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinduMB-88/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/BinduMB-88/Leetcode/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinduMB-88/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinduMB-88/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
