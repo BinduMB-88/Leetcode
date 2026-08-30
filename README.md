@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0575-distribute-candies](https://github.com/BinduMB-88/Leetcode/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BinduMB-88/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BinduMB-88/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
