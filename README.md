@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BinduMB-88/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/BinduMB-88/Leetcode/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinduMB-88/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinduMB-88/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/BinduMB-88/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 <!---LeetCode Topics End-->
