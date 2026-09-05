@@ -160,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/BinduMB-88/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BinduMB-88/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/BinduMB-88/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/BinduMB-88/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
