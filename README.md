@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/BinduMB-88/Leetcode/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/BinduMB-88/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinduMB-88/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/BinduMB-88/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BinduMB-88/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -125,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/BinduMB-88/Leetcode/tree/master/0155-min-stack) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
