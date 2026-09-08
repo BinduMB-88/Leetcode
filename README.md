@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinduMB-88/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2553-separate-the-digits-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BinduMB-88/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/BinduMB-88/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/BinduMB-88/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/BinduMB-88/Leetcode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
