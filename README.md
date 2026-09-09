@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/BinduMB-88/Leetcode/tree/master/0443-string-compression) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/BinduMB-88/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -196,9 +198,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/BinduMB-88/Leetcode/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
