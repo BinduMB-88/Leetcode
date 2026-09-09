@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0575-distribute-candies](https://github.com/BinduMB-88/Leetcode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BinduMB-88/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BinduMB-88/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/BinduMB-88/Leetcode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BinduMB-88/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/BinduMB-88/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
