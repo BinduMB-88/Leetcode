@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/BinduMB-88/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BinduMB-88/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/BinduMB-88/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/BinduMB-88/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BinduMB-88/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BinduMB-88/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BinduMB-88/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2833-furthest-point-from-origin](https://github.com/BinduMB-88/Leetcode/tree/master/2833-furthest-point-from-origin) |
