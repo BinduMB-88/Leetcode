@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/BinduMB-88/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/BinduMB-88/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/BinduMB-88/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/BinduMB-88/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/BinduMB-88/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/BinduMB-88/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
