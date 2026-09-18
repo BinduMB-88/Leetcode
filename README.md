@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/BinduMB-88/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/BinduMB-88/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BinduMB-88/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinduMB-88/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/BinduMB-88/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BinduMB-88/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/BinduMB-88/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/BinduMB-88/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BinduMB-88/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinduMB-88/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BinduMB-88/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/BinduMB-88/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/BinduMB-88/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinduMB-88/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BinduMB-88/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinduMB-88/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/BinduMB-88/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
