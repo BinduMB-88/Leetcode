@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/BinduMB-88/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinduMB-88/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/BinduMB-88/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/BinduMB-88/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BinduMB-88/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/BinduMB-88/Leetcode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/BinduMB-88/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
