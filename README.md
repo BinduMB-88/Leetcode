@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/BinduMB-88/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/BinduMB-88/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BinduMB-88/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/BinduMB-88/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BinduMB-88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/BinduMB-88/Leetcode/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/BinduMB-88/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/BinduMB-88/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/BinduMB-88/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/BinduMB-88/Leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BinduMB-88/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BinduMB-88/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BinduMB-88/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/BinduMB-88/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BinduMB-88/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
