@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/BinduMB-88/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/BinduMB-88/Leetcode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/BinduMB-88/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/BinduMB-88/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/BinduMB-88/Leetcode/tree/master/0796-rotate-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/BinduMB-88/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/BinduMB-88/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/BinduMB-88/Leetcode/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinduMB-88/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BinduMB-88/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/BinduMB-88/Leetcode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/BinduMB-88/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BinduMB-88/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
@@ -304,5 +307,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BinduMB-88/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/BinduMB-88/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BinduMB-88/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/BinduMB-88/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
