@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/BinduMB-88/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BinduMB-88/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BinduMB-88/Leetcode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/BinduMB-88/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/BinduMB-88/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/BinduMB-88/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinduMB-88/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/BinduMB-88/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BinduMB-88/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/BinduMB-88/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
