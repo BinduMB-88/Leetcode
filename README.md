@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/BinduMB-88/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/BinduMB-88/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/BinduMB-88/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/BinduMB-88/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/BinduMB-88/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinduMB-88/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BinduMB-88/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
